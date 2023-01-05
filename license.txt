@@ -1,0 +1,11 @@
+Model Information:
+* title:	Isometric Kitchen (Study Render)
+* source:	https://sketchfab.com/3d-models/isometric-kitchen-study-render-699168dff5094f009f9b66ae4e59f448
+* author:	Slevea (https://sketchfab.com/Slevea)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Isometric Kitchen (Study Render)" (https://sketchfab.com/3d-models/isometric-kitchen-study-render-699168dff5094f009f9b66ae4e59f448) by Slevea (https://sketchfab.com/Slevea) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
